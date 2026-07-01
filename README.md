@@ -1,16 +1,33 @@
-## Hi there 👋
+ Hi, I'm Bisma Babar 👋
 
-<!--
-**Bisma-Babar/Bisma-Babar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Cybersecurity student interested in network security, ethical hacking, and system defense.
 
-Here are some ideas to get you started:
+## About Me
+- Currently studying Cybersecurity in Bahrain Polytechnic
+- Learning networking, Linux, and security fundamentals
+- Interested in Networking and defensive security
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Networking Fundamentals
+- Linux
+- Python
+- Cisco Packet Tracer
+- sql
+- java
+
+## Projects
+
+### 🔹 Network Security Project
+Group project where I worked as team leader on designing and implementing a network solution.
+
+### 🔹 More projects coming soon...
+
+## Currently Learning
+- Cybersecurity labs
+- Network security
+- Python scripting
+- Security tools
+
+## Contact
+https://www.linkedin.com/in/bisma-babar-68aa66418
+bismababar051@gmail.com
